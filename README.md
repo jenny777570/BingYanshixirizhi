@@ -1,4 +1,4 @@
-# BingYanshixirizhi
+# 实习日志
 
 姓名：周飞
 
